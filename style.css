@@ -12,10 +12,10 @@ header {
   border-bottom: 1px solid;
   background-color: rgb(138, 23, 119);
 }
-header div {
+.links {
 text-align: center;
 }
-header div a {
+.links a {
 font-family: "Old Standard TT", serif;
      color: aliceblue;
      font-size: 20px;
@@ -23,7 +23,7 @@ font-family: "Old Standard TT", serif;
      margin: 0 16px;
      text-decoration: none;
 }
-header div a:hover {
+.links a:hover {
 color: rgb(114, 8, 201);
 transition: color 700ms;
 }
